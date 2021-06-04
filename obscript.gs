@@ -110,11 +110,11 @@ function checkBlanks(){
 
 function documentProps(){
  
- document.setProperty("app_id", "oohPXGFuYGeeAZ3yN7HR6ZBTOLqCQD99");
- document.setProperty("app_key", "zJ8OYnPMMvhTQmoO");
- document.setProperty("MER_ID", "MER_60af02beeeae4543bbd72c0b3c409273");
- document.setProperty("developer_id", "002857G001");
- document.setProperty("password", "TsysCert123.");
+ document.setProperty("app_id", "APP-ID");
+ document.setProperty("app_key", "APP-KEY");
+ document.setProperty("MER_ID", "MER-ID");
+ document.setProperty("developer_id", "DEV-ID");
+ document.setProperty("password", "PASS");
 
 
 }
